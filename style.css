@@ -1,0 +1,36 @@
+/* * {
+    box-sizing: border-box;
+  }
+  body{
+    font-family: monospace;
+    }
+  #special {
+    background-color: Purple;
+    border: 2px solid blue;
+  }
+  .parent-div{
+    width: 40%;
+    background-color: blue;
+    border: 5px solid purple;
+  }
+  Div {
+    height: 100px;
+    width: 200px;
+    border: 2px solid red;
+    background-color: orange;
+    margin: 50px;
+    margin-top: 50px;
+    margin-left: 200px;
+    padding-top: 30px;
+    
+    padding: 40px;
+  }
+  .another-class{
+    background-color: pink;
+  }
+  .this-class {
+    background-color: green;
+  }
+  .this-class.another-class{
+    background-color: blue;
+  } */
