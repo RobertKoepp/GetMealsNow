@@ -23,7 +23,7 @@ async function sendApisRequest() {
 function useApiData(data) {
     for (let i = 0; i < 1; i++) { 
         let calories = data.hits[i].recipe.calories.toFixed(0)
-        let fat = data.hits[i].recipe.fat.toFixed(0)
+        //let fat = data.hits[i].recipe.fat.toFixed(0)
         //carbs etc.
         //protein
         $("#content").html("");
